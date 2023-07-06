@@ -1,0 +1,62 @@
+
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness	japan	Karachi	meal	2021	23	international	bussiness
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness	japan	Karachi	meal	2021	23	international	bussiness	Karachi	london	meal	2021	23	international	bussiness	Karachi	Japan	meal	2021	22	international	Economy	karachi	dubai	meal	2021	23	international	bussiness	karachi	dsf	dsfgf	2021	23	international	bussiness	sdbjksd	sadjndsjk	sad	2021	23	ss	ddd	karachi	london	Lahore	london	Lahore	 london	oneway	meal	2021
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness	japan	Karachi	meal	2021	23	international	bussiness	Karachi	london	meal	2021	23	international	bussiness	Karachi	Japan	meal	2021	22	international	Economy	karachi	dubai	meal	2021	23	international	bussiness	karachi	dsf	dsfgf	2021	23	international	bussiness	sdbjksd	sadjndsjk	sad	2021	23	ss	ddd	karachi	london	Lahore	london	Lahore	 london	oneway	meal	2021	karaachi	london	oneway	meal	2021	23	international	bussiness
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness	japan	Karachi	meal	2021	23	international	bussiness	Karachi	london	meal	2021	23	international	bussiness	Karachi	Japan	meal	2021	22	international	Economy	karachi	dubai	meal	2021	23	international	bussiness	karachi	dsf	dsfgf	2021	23	international	bussiness	sdbjksd	sadjndsjk	sad	2021	23	ss	ddd	karachi	london	Lahore	london	Lahore	 london	oneway	meal	2021	karaachi	london	oneway	meal	2021	23	international	bussiness	karachi	london	one way	meal	2021	23	international
+economy
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness	japan	Karachi	meal	2021	23	international	bussiness	Karachi	london	meal	2021	23	international	bussiness	Karachi	Japan	meal	2021	22	international	Economy	karachi	dubai	meal	2021	23	international	bussiness	karachi	dsf	dsfgf	2021	23	international	bussiness	sdbjksd	sadjndsjk	sad	2021	23	ss	ddd	karachi	london	Lahore	london	Lahore	 london	oneway	meal	2021	karaachi	london	oneway	meal	2021	23	international	bussiness	karachi	london	one way	meal	2021	23	international
+economy	lahore	london	oneway	meal	2021	23	international
+bussiness	karachi	abu dhabi	two way	meal	2020	0	#include<stdio.h>
+#include<fstream>
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness	japan	Karachi	meal	2021	23	international	bussiness	Karachi	london	meal	2021	23	international	bussiness	Karachi	Japan	meal	2021	22	international	Economy	karachi	dubai	meal	2021	23	international	bussiness	karachi	dsf	dsfgf	2021	23	international	bussiness	sdbjksd	sadjndsjk	sad	2021	23	ss	ddd	karachi	london	Lahore	london	Lahore	 london	oneway	meal	2021	karaachi	london	oneway	meal	2021	23	international	bussiness	karachi	london	one way	meal	2021	23	international
+economy	lahore	london	oneway	meal	2021	23	international
+bussiness	karachi	abu dhabi	two way	meal	2020	0	#include<stdio.h>
+#include<fstream>	dubai	karachi	one way	meal	2021	0	international flight
+economy
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness	japan	Karachi	meal	2021	23	international	bussiness	Karachi	london	meal	2021	23	international	bussiness	Karachi	Japan	meal	2021	22	international	Economy	karachi	dubai	meal	2021	23	international	bussiness	karachi	dsf	dsfgf	2021	23	international	bussiness	sdbjksd	sadjndsjk	sad	2021	23	ss	ddd	karachi	london	Lahore	london	Lahore	 london	oneway	meal	2021	karaachi	london	oneway	meal	2021	23	international	bussiness	karachi	london	one way	meal	2021	23	international
+economy	lahore	london	oneway	meal	2021	23	international
+bussiness	karachi	abu dhabi	two way	meal	2020	0	#include<stdio.h>
+#include<fstream>	dubai	karachi	one way	meal	2021	0	international flight
+economy	london	karachi	one	meal'	2021	23	international
+business	lahore	uk	one way	meal	2022	2	international
+bussiness
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness	japan	Karachi	meal	2021	23	international	bussiness	Karachi	london	meal	2021	23	international	bussiness	Karachi	Japan	meal	2021	22	international	Economy	karachi	dubai	meal	2021	23	international	bussiness	karachi	dsf	dsfgf	2021	23	international	bussiness	sdbjksd	sadjndsjk	sad	2021	23	ss	ddd	karachi	london	Lahore	london	Lahore	 london	oneway	meal	2021	karaachi	london	oneway	meal	2021	23	international	bussiness	karachi	london	one way	meal	2021	23	international
+economy	lahore	london	oneway	meal	2021	23	international
+bussiness	karachi	abu dhabi	two way	meal	2020	0	#include<stdio.h>
+#include<fstream>	dubai	karachi	one way	meal	2021	0	international flight
+economy	london	karachi	one	meal'	2021	23	international
+business	lahore	uk	one way	meal	2022	2	international
+bussiness	LAHORE	lONDON	TWOWAY	meal	2021	23	international
+bussiness
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness	japan	Karachi	meal	2021	23	international	bussiness	Karachi	london	meal	2021	23	international	bussiness	Karachi	Japan	meal	2021	22	international	Economy	karachi	dubai	meal	2021	23	international	bussiness	karachi	dsf	dsfgf	2021	23	international	bussiness	sdbjksd	sadjndsjk	sad	2021	23	ss	ddd	karachi	london	Lahore	london	Lahore	 london	oneway	meal	2021	karaachi	london	oneway	meal	2021	23	international	bussiness	karachi	london	one way	meal	2021	23	international
+economy	lahore	london	oneway	meal	2021	23	international
+bussiness	karachi	abu dhabi	two way	meal	2020	0	#include<stdio.h>
+#include<fstream>	dubai	karachi	one way	meal	2021	0	international flight
+economy	london	karachi	one	meal'	2021	23	international
+business	lahore	uk	one way	meal	2022	2	international
+bussiness	LAHORE	lONDON	TWOWAY	meal	2021	23	international
+bussiness	lahore	london	oneway	meal	2021	23	international
+bussiness
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness	japan	Karachi	meal	2021	23	international	bussiness	Karachi	london	meal	2021	23	international	bussiness	Karachi	Japan	meal	2021	22	international	Economy	karachi	dubai	meal	2021	23	international	bussiness	karachi	dsf	dsfgf	2021	23	international	bussiness	sdbjksd	sadjndsjk	sad	2021	23	ss	ddd	karachi	london	Lahore	london	Lahore	 london	oneway	meal	2021	karaachi	london	oneway	meal	2021	23	international	bussiness	karachi	london	one way	meal	2021	23	international
+economy	lahore	london	oneway	meal	2021	23	international
+bussiness	karachi	abu dhabi	two way	meal	2020	0	#include<stdio.h>
+#include<fstream>	dubai	karachi	one way	meal	2021	0	international flight
+economy	london	karachi	one	meal'	2021	23	international
+business	lahore	uk	one way	meal	2022	2	international
+bussiness	LAHORE	lONDON	TWOWAY	meal	2021	23	international
+bussiness	lahore	london	oneway	meal	2021	23	international
+bussiness	denmark	faisalabad	twtwo	meal	2021	24	international
+bussiness
+	lahore	london	meal	2021	23			1	international	bussiness	Karachi	london	meal	2021	22		karachi	london	meal	2021	22	international	bussiness	karachi	london	meal	2021	23	international	bussiness	japan	Karachi	meal	2021	23	international	bussiness	Karachi	london	meal	2021	23	international	bussiness	Karachi	Japan	meal	2021	22	international	Economy	karachi	dubai	meal	2021	23	international	bussiness	karachi	dsf	dsfgf	2021	23	international	bussiness	sdbjksd	sadjndsjk	sad	2021	23	ss	ddd	karachi	london	Lahore	london	Lahore	 london	oneway	meal	2021	karaachi	london	oneway	meal	2021	23	international	bussiness	karachi	london	one way	meal	2021	23	international
+economy	lahore	london	oneway	meal	2021	23	international
+bussiness	karachi	abu dhabi	two way	meal	2020	0	#include<stdio.h>
+#include<fstream>	dubai	karachi	one way	meal	2021	0	international flight
+economy	london	karachi	one	meal'	2021	23	international
+business	lahore	uk	one way	meal	2022	2	international
+bussiness	LAHORE	lONDON	TWOWAY	meal	2021	23	international
+bussiness	lahore	london	oneway	meal	2021	23	international
+bussiness	denmark	faisalabad	twtwo	meal	2021	24	international
+bussiness	pindi	islamabad	oneway	meal	2022	7	international
+economy
